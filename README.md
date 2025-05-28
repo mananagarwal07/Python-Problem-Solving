@@ -13,8 +13,3 @@ A structured collection of Python problems and solutions organized by topic — 
 - Lists, Tuples, Sets
 - Dictionaries
 ...and more
-
-## 🚀 Getting Started
-Clone the repo or download it as ZIP:
-```bash
-python path/to/file.py
